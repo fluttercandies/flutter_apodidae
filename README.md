@@ -1,5 +1,7 @@
 # flutter_apodidae
 
+![image](https://user-images.githubusercontent.com/40540394/124585416-d6c33280-de87-11eb-8e4f-d0a8f9fdf415.png)
+
 项目名 Apodidae (雨燕)是飞翔速度最快的鸟类，与 Flutter (颤动)不谋而合。
 
 这个项目用于收录 Flutter 中的优化合集，向大家分享各种 Flutter 的优化技巧。
