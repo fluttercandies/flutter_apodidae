@@ -10,7 +10,7 @@
 
 如果你遇到了优化相关问题，提出 issue。
 
-第一期，优化主要以 [keframe](https://github.com/LianjiaTech/keframe) 优化案例为主。
+第一期已上线，一起来看看 3 位开发者具体在项目中的效果：[keframe 第一期优化](https://github.com/fluttercandies/flutter_apodidae/blob/master/%E7%AC%AC%E4%B8%80%E6%9C%9F%20keframe/keframe1.md)
 
 我会收集优化 [keframe](https://github.com/LianjiaTech/keframe) 的优化 case (录屏或者代码)整合到项目中，同时也会尝试，对一些已有的 flutter example 进行 [keframe](https://github.com/LianjiaTech/keframe) 优化。
 
